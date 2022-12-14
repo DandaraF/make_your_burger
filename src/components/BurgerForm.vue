@@ -83,8 +83,15 @@ export default {
         body: dataJson
       });
       const res = await req.json();
+      // colocar uma msg de sistema
 
-      console.log(res);
+      //limpar msg
+
+      //limpar os campos
+      this.nome = "";
+      this.carne ="";
+      this.pao = "";
+      this.opcionais =""
     }
    },
    mounted(){
