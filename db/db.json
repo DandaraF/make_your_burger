@@ -79,42 +79,6 @@
   ],
   "burgers": [
     {
-      "nome": "fasd",
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon"
-      ],
-      "status": "Solicitado",
-      "id": 1
-    },
-    {
-      "nome": "fasd",
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon",
-        "Pepino"
-      ],
-      "status": "Solicitado",
-      "id": 2
-    },
-    {
-      "nome": "fasd",
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon",
-        "Pepino",
-        "Tomate",
-        "Cheddar",
-        "Salame",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado",
-      "id": 3
-    },
-    {
       "nome": "Danda",
       "carne": "Alcatra",
       "pao": "Italiano Branco",
@@ -122,7 +86,7 @@
         "Bacon",
         "Salame"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 4
     },
     {
@@ -137,21 +101,14 @@
     },
     {
       "nome": "Pedro",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [],
-      "status": "Solicitado",
-      "id": 6
-    },
-    {
-      "nome": "Paulo",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
+      "carne": "Picanha",
+      "pao": "Italiano Branco",
       "opcionais": [
-        "Bacon"
+        "Bacon",
+        "Salame"
       ],
-      "status": "Solicitado",
-      "id": 7
+      "status": "Em produção",
+      "id": 6
     }
   ]
 }
